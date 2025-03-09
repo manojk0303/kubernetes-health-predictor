@@ -60,7 +60,7 @@ The model demonstrates strong performance in predicting Kubernetes issues:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kubernetes-issue-prediction.git
+git clone https://github.com/manojk0303/kubernetes-issue-prediction.git
 cd kubernetes-issue-prediction
 
 # Install required packages
