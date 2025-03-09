@@ -167,24 +167,3 @@ The model requires a dataset with the following structure:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-```
-
-You may want to modify this README to include specific details about your implementation or additional information about the dataset you used.
-
-For a complete GitHub submission, you should also consider including:
-
-1. A `requirements.txt` file listing all the Python dependencies:
-```
-numpy>=1.20.0
-pandas>=1.3.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-scikit-learn>=0.24.0
-joblib>=1.0.0
-```
-
-2. A simple architecture diagram (you can create this using any diagram tool)
-
-3. A license file (typically MIT or Apache 2.0 for open source projects)
-
-This comprehensive README will make your project more accessible to other developers and showcase the sophisticated work you've done on this Kubernetes prediction system. It clearly explains the system architecture, installation process, and provides usage examples that will help your team members understand how to integrate their public dataset with your code.
